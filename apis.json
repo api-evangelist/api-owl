@@ -1,0 +1,45 @@
+{
+    "name": "API Owl",
+    "description": "<p>API Owl is a Florida headquartered start-up offering modern tooling, testing, and monitoring for keeping your most mission critical APIs from misbehaving in addition to assisting in their development and deployment.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-owl.png",
+    "tags": [
+        "api service provider",
+        "have api",
+        "monitoring"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api-owl\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "API Owl",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-owl.png",
+            "humanURL": "https:\/\/apiowl.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-owl-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Pricing",
+            "url": "https:\/\/apiowl.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apiowl"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/apiowl.com\/"
+        }
+    ]
+}
